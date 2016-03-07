@@ -1,0 +1,37 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.2",
+    "bootstrap": "^3.3.6",
+    "connect-mongo": "^1.1.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^2.1.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "grunt-nodemon": "^0.4.1",
+    "jade": "^1.11.0",
+    "moment": "^2.11.1",
+    "mongoose": "^4.3.7",
+    "morgan": "^1.6.1",
+    "serve-static": "^1.10.2",
+    "should": "^8.2.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "MLW",
+  "license": "MIT"
+}
